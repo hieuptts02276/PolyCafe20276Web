@@ -1,0 +1,4 @@
+body { min-height: 100vh; }
+.card { border: 0; }
+.nav-tabs .nav-link { font-size: .9rem; }
+.table td, .table th { white-space: nowrap; }
